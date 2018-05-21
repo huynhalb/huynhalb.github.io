@@ -1,2 +1,0 @@
-# huynhalb.github.io
-website
